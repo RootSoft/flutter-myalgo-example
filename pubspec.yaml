@@ -10,13 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # MyAlgo Connect
-  flutter_myalgo_connect: ^1.0.0
-
-  #Algorand
-  algorand_dart: ^0.0.2-beta.8
-
-  cupertino_icons: ^1.0.2
+  js: ^0.6.3
 
 dev_dependencies:
   flutter_test:
